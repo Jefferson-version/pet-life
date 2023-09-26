@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'montserrat', sans-serif ;
+  
+}
+body {
+  color: #263138;
+}
+header {
+  background-color: #ff9a6c;
+}
+h1 {
+  color: red;
+}
